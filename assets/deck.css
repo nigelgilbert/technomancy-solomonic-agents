@@ -40,26 +40,35 @@ html, body, .reveal-viewport { background: var(--bg); }
 
 /* Title */
 .layout-title { display: flex !important; flex-direction: column; align-items: center; justify-content: center; text-align: center; }
-.layout-title .seal { width: 120px; filter: invert(1) sepia(1) saturate(3) hue-rotate(-10deg); margin-bottom: 34px; }
+.layout-title .seal { width: 198px; margin-bottom: 34px; }
 .layout-title h1 { font-size: 76px; }
 .layout-title p { color: var(--muted); font-size: 26px; margin: 18px 0 40px; }
 
 /* Bullets beside a visual */
 .with-side { display: grid; grid-template-columns: 1fr 340px; gap: 44px; align-items: start; }
 .with-side.wide-side { grid-template-columns: 1fr 560px; }
-.seal-side { width: 300px; filter: invert(1) sepia(1) saturate(3) hue-rotate(-10deg); opacity: .9; }
+.seal-side { width: 300px; }
 .map { width: 100%; image-rendering: pixelated; border: 1px solid var(--line); background: var(--bg); }
 .demon-title s { color: var(--muted); text-decoration-color: var(--demon); text-decoration-thickness: 4px; }
 .demon-title em { font-style: normal; color: var(--demon); }
 #s6 .serif-list { font-size: 30px; }
 #s6 .serif-list li { margin-bottom: 9px; }
 
+/* Slide 7 */
+.entry { border-top: 3px solid var(--demon); background: var(--panel); padding: 20px 24px 12px; }
+.entry-head { display: flex; align-items: center; gap: 24px; margin-bottom: 14px; }
+.entry-head img { width: 186px; }
+.entry-no { font-family: var(--mono); font-size: 18px; color: var(--muted); }
+.entry-name { font-family: var(--serif); font-size: 62px; line-height: 1.1; color: var(--demon); }
+.entry dl { display: grid; grid-template-columns: 112px 1fr; margin: 0; }
+.entry dt, .entry dd { margin: 0; padding: 9px 0; border-top: 1px solid var(--line); }
+.entry dt { font-family: var(--mono); font-size: 17px; line-height: 1.7; color: var(--muted); }
+.entry dd { font-family: var(--serif); font-size: 25px; line-height: 1.2; }
+
 /* Slide 2 */
 .reveal ol.steps { list-style: none; margin: 0 0 20px; padding: 0; font-family: var(--serif); font-size: 32px; }
 .reveal ol.steps li { margin-bottom: 8px; padding-bottom: 5px; border-bottom: 1px solid var(--line); }
-.reveal ol.steps li:nth-child(2) { margin-left: 34px; }
-.reveal ol.steps li:nth-child(3) { margin-left: 68px; }
-.reveal ol.steps li.last { margin-left: 102px; color: var(--demon); }
+.reveal ol.steps li.last { color: var(--demon); }
 #s2 .serif-list { font-size: 31px; }
 #s2 .serif-list li { margin-bottom: 8px; }
 
@@ -94,11 +103,8 @@ html, body, .reveal-viewport { background: var(--bg); }
 
 .rite { height: 100%; box-sizing: border-box; display: flex; flex-direction: column; justify-content: center; font-family: var(--serif); font-size: 22px; line-height: 1.24; font-style: italic; }
 
-/* Blend the inverted plate into the slide background. */
-.plate { height: calc(var(--vis) - 22px); aspect-ratio: 1710 / 2270; background: var(--bg); isolation: isolate; flex: none; }
-.plate img { height: 100%; mix-blend-mode: lighten; filter: invert(1) sepia(1) saturate(2.5) hue-rotate(-10deg); }
-.agent .plate { height: var(--vis); }
-.agent .plate img { filter: invert(1) sepia(1) saturate(4) hue-rotate(140deg); }
+.plate { height: 228px; aspect-ratio: 57 / 76; flex: none; }
+.plate img { height: 100%; }
 .plate-wrap { display: flex; gap: 26px; align-items: center; height: 100%; }
 .tags { display: flex; flex-direction: column; justify-content: space-between; height: 76%; }
 .tag { font-family: var(--mono); font-size: 18px; color: var(--agent); line-height: 1.3; }
