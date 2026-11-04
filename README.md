@@ -10,6 +10,4 @@ Run locally with `python3 -m http.server 8000`.
 
 Slide content is in `index.html`. Styles are in `assets/deck.css`. A section with `data-pair` is written once and copied into an a slide and a b slide at load.
 
-The slide 4 quote is pending verification.
-
 Credits are in [CREDITS.md](CREDITS.md).
