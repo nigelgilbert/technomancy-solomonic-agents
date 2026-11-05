@@ -89,8 +89,6 @@ html, body, .reveal-viewport { background: var(--bg); }
 /* Slide 9 */
 .s9 { --vis: 205px; }
 .s9 .split { height: 510px; }
-.s9 .col { line-height: 34.8px; }
-.s9 .col li:nth-child(n+2) { min-height: 69.6px; }
 .s9 .closing { height: 60px; }
 .pair-a .closing { visibility: hidden; }
 
