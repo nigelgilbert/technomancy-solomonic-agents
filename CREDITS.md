@@ -5,7 +5,7 @@ Non-commercial talk. Rights stay with the holders listed. Open an issue to reque
 ## Images and text
 
 - Slide 1: 8-bit pentagram drawn for this deck.
-- Slide 2: Ferdinand Barth, *Der Zauberlehrling*, from *Goethe's Werke*, 1882. Public domain. Cropped, inverted and pixelated. [Source](https://commons.wikimedia.org/wiki/File:Tovenaarsleerling_S_Barth.png)
+- Slide 2: Ferdinand Barth, *Der Zauberlehrling*, from *Goethe's Werke*, 1882. Public domain. [Source](https://commons.wikimedia.org/wiki/File:Tovenaarsleerling_S_Barth.png)
 - Slide 4: William Gibson, *Neuromancer*, 1984. Quotation.
 - Slide 6: Seal of Solomon, *Lesser Key of Solomon*, 17th c. Redrawn by Fuzzypeg. Public domain. Pixelated. [Source](https://commons.wikimedia.org/wiki/File:Goetia_seal_of_solomon.svg)
 - Slide 7: Seal of Bael, *Ars Goetia*, Mathers and Crowley edition, 1904. Vector by [Grimorium](https://grimorium.lat). Public domain. Pixelated. [Source](https://commons.wikimedia.org/wiki/File:01-bael-sigilo-ars-goetia.svg)
