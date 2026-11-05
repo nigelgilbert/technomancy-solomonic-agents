@@ -65,7 +65,7 @@ html, body, .reveal-viewport { background: var(--bg); }
 /* Slide 3 */
 .prompt { font-family: var(--mono); font-size: 32px; line-height: 1.35; background: var(--panel); border: 1px solid var(--line); padding: 24px 28px; margin-bottom: 34px; }
 .prompt::before { content: "$ "; color: var(--agent); }
-#s3, #s7 { display: flex !important; flex-direction: column; }
+#s3, #s4, #s7 { display: flex !important; flex-direction: column; }
 .closing { flex: 1; display: flex; align-items: center; justify-content: center; margin: 0; text-align: center; }
 
 /* Quote */
@@ -83,6 +83,14 @@ html, body, .reveal-viewport { background: var(--bg); }
 .col .visual .credit { flex: none; }
 .pair-a .col.agent { visibility: hidden; }
 .pair-b .col.demon { opacity: .32; }
+
+/* Slide 9 */
+.s9 { --vis: 205px; }
+.s9 .split { height: 510px; }
+.s9 .col { line-height: 34.8px; }
+.s9 .col li:nth-child(n+2) { min-height: 69.6px; }
+.s9 .closing { height: 60px; }
+.pair-a .closing { visibility: hidden; }
 
 .chat { height: 100%; box-sizing: border-box; background: var(--panel); border: 1px solid var(--line); padding: 14px 18px; display: flex; flex-direction: column; gap: 8px; font-size: 19px; }
 .chat .msg { max-width: 82%; padding: 6px 0; }
