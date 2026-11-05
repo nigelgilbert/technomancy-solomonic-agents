@@ -40,7 +40,7 @@ html, body, .reveal-viewport { background: var(--bg); }
 
 /* Title */
 .layout-title { display: flex !important; flex-direction: column; align-items: center; justify-content: center; text-align: center; }
-.layout-title .seal { width: 198px; margin-bottom: 34px; }
+.layout-title .seal { width: 330px; margin-bottom: 34px; }
 .layout-title h1 { font-size: 76px; }
 .layout-title p { color: var(--muted); font-size: 26px; margin: 18px 0 40px; }
 
