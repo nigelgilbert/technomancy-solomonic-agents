@@ -12,7 +12,7 @@ Non-commercial talk. Rights stay with the holders listed. Open an issue to reque
 - Slide 13b: 8-bit scene drawn for this deck.
 - Slide 8: Eugène Delacroix, *Mephistopheles Presents Himself to Martha*, 1828. The Met. CC0. Cropped. [Source](https://commons.wikimedia.org/wiki/File:Mephistopheles_presents_himself_to_Martha_(Goethe,_Faust)_MET_DP852078.jpg)
 - Slide 9: *The Clavicle of Solomon, revealed by Ptolomy the Grecian*, 1572 manuscript. Public domain. Cropped and pixelated. [Source](https://commons.wikimedia.org/wiki/File:Key_of_Solomon_page.png)
-- Slide 9c: David Rudnick, poster for Making Time, 2018. Cropped. [Source](https://thisispaper.com/mag/david-rudnick-selected-works)
+- Slide 9c: David Rudnick, selected works. [Source](https://thisispaper.com/mag/david-rudnick-selected-works)
 - Slide 10: Circle and Triangle of Solomon, *The Goetia*, Mathers and Crowley edition, 1904. Public domain. Recolored and pixelated. [Source](https://commons.wikimedia.org/wiki/File:Circle_of_Solomon_and_Triangle_of_Solomon_from_The_Lesser_Key_of_Solomon.png)
 - Slide 11: Licence to depart, British Library Sloane MS 3825. Transcribed by [Joseph H. Peterson](http://www.esotericarchives.com/solomon/goetia.htm). CC BY 4.0. Excerpted and punctuated.
 - Slide 12: Rembrandt van Rijn, *A Scholar in His Study ("Faust")*, c. 1652. The Met. CC0. Cropped. [Source](https://commons.wikimedia.org/wiki/File:A_Scholar_in_His_Study_(%27Faust%27)_MET_DP814791.jpg)

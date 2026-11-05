@@ -70,7 +70,7 @@ html, body, .reveal-viewport { background: var(--bg); }
 
 /* Quote */
 .layout-quote blockquote { margin: 0; padding: 0; width: auto; box-shadow: none; background: none; text-align: left; font-family: var(--serif); font-size: 54px; line-height: 1.18; }
-.layout-quote cite { display: block; font-family: var(--serif); font-size: 28px; color: var(--muted); margin: 18px 0 40px; font-style: normal; }
+.layout-quote cite { display: block; font-family: var(--serif); font-size: 28px; color: var(--muted); margin: 18px 0 100px; font-style: normal; }
 
 /* Split */
 .split { display: grid; grid-template-columns: 1fr 1fr; gap: 44px; height: 570px; }
