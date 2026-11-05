@@ -51,7 +51,7 @@ html, body, .reveal-viewport { background: var(--bg); }
 .map { width: 100%; image-rendering: pixelated; border: 1px solid var(--line); background: var(--bg); }
 .demon-title s { color: var(--muted); text-decoration-color: var(--demon); text-decoration-thickness: 4px; }
 .demon-title em { font-style: normal; color: var(--demon); }
-#s6 .serif-list { font-size: 30px; }
+#s6 .serif-list { font-size: 34px; }
 #s6 .serif-list li { margin-bottom: 9px; }
 
 /* Slide 2 */
@@ -64,7 +64,8 @@ html, body, .reveal-viewport { background: var(--bg); }
 /* Slide 3 */
 .prompt { font-family: var(--mono); font-size: 32px; line-height: 1.35; background: var(--panel); border: 1px solid var(--line); padding: 24px 28px; margin-bottom: 34px; }
 .prompt::before { content: "$ "; color: var(--agent); }
-.closing { position: absolute; left: 64px; right: 64px; bottom: 30px; margin: 0; }
+#s3 { display: flex !important; flex-direction: column; }
+.closing { flex: 1; display: flex; align-items: center; justify-content: center; margin: 0; text-align: center; }
 
 /* Quote */
 .layout-quote blockquote { margin: 0; padding: 0; width: auto; box-shadow: none; background: none; text-align: left; font-family: var(--serif); font-size: 54px; line-height: 1.18; }
