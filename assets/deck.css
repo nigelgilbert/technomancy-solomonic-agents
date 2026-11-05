@@ -67,9 +67,10 @@ html, body, .reveal-viewport { background: var(--bg); }
 .prompt::before { content: "$ "; color: var(--agent); }
 #s3, #s4, #s7 { display: flex !important; flex-direction: column; }
 .closing { flex: 1; display: flex; align-items: center; justify-content: center; margin: 0; text-align: center; }
-#s3 .closing { padding-bottom: 60px; }
+#s3 .closing, #s4 .closing { padding-bottom: 60px; }
 
 /* Quote */
+.layout-quote h2 { margin-bottom: 44px; }
 .layout-quote blockquote { margin: 0; padding: 0; width: auto; box-shadow: none; background: none; text-align: left; font-family: var(--serif); font-size: 54px; line-height: 1.18; }
 .layout-quote cite { display: block; font-family: var(--serif); font-size: 28px; color: var(--muted); margin: 18px 0 48px; font-style: normal; }
 
